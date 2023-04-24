@@ -1,590 +1,5 @@
 {
-    "mappings": [
-        {
-            "VanMau": "a",
-            "ThanhVanMau": [
-                "a",
-                "ba",
-                "pa",
-                "ma",
-                "fa",
-                "da",
-                "ta",
-                "na",
-                "la",
-                "ga",
-                "ka",
-                "ha",
-                "za",
-                "ca",
-                "sa",
-                "zha",
-                "cha",
-                "sha"
-            ]
-        },
-        {
-            "VanMau": "ai",
-            "ThanhVanMau": [
-                "ai",
-                "bai",
-                "pai",
-                "mai",
-                "dai",
-                "tai",
-                "nai",
-                "lai",
-                "gai",
-                "kai",
-                "hai",
-                "zai",
-                "cai",
-                "sai",
-                "zhai",
-                "chai",
-                "shai"
-            ]
-        },
-        {
-            "VanMau": "an",
-            "ThanhVanMau": [
-                "an",
-                "ban",
-                "pan",
-                "man",
-                "fan",
-                "dan",
-                "tan",
-                "nan",
-                "lan",
-                "gan",
-                "kan",
-                "han",
-                "zan",
-                "can",
-                "san",
-                "zhan",
-                "chan",
-                "shan",
-                "ran"
-            ]
-        },
-        {
-            "VanMau": "ang",
-            "ThanhVanMau": [
-                "ang",
-                "bang",
-                "pang",
-                "mang",
-                "fang",
-                "dang",
-                "tang",
-                "nang",
-                "lang",
-                "gang",
-                "kang",
-                "hang",
-                "zang",
-                "cang",
-                "sang",
-                "zhang",
-                "chang",
-                "shang",
-                "rang"
-            ]
-        },
-        {
-            "VanMau": "ao",
-            "ThanhVanMau": [
-                "ao",
-                "bao",
-                "pao",
-                "mao",
-                "dao",
-                "tao",
-                "nao",
-                "lao",
-                "gao",
-                "kao",
-                "hao",
-                "zao",
-                "cao",
-                "sao",
-                "zhao",
-                "chao",
-                "shao",
-                "rao"
-            ]
-        },
-        {
-            "VanMau": "e",
-            "ThanhVanMau": [
-                "e",
-                "me",
-                "de",
-                "te",
-                "ne",
-                "le",
-                "ge",
-                "ke",
-                "he",
-                "ze",
-                "ce",
-                "se",
-                "zhe",
-                "che",
-                "she",
-                "re"
-            ]
-        },
-        {
-            "VanMau": "ei",
-            "ThanhVanMau": [
-                "ei",
-                "bei",
-                "pei",
-                "mei",
-                "fei",
-                "dei",
-                "nei",
-                "lei",
-                "gei",
-                "hei",
-                "zei",
-                "zhei",
-                "shei"
-            ]
-        },
-        {
-            "VanMau": "en",
-            "ThanhVanMau": [
-                "en",
-                "ben",
-                "pen",
-                "men",
-                "fen",
-                "nen",
-                "gen",
-                "ken",
-                "hen",
-                "zen",
-                "cen",
-                "sen",
-                "zhen",
-                "chen",
-                "shen",
-                "ren"
-            ]
-        },
-        {
-            "VanMau": "eng",
-            "ThanhVanMau": [
-                "eng",
-                "beng",
-                "peng",
-                "meng",
-                "feng",
-                "deng",
-                "teng",
-                "neng",
-                "leng",
-                "geng",
-                "keng",
-                "heng",
-                "zeng",
-                "ceng",
-                "seng",
-                "zheng",
-                "cheng",
-                "sheng",
-                "reng"
-            ]
-        },
-        {
-            "VanMau": "er",
-            "ThanhVanMau": [
-                "er"
-            ]
-        },
-        {
-            "VanMau": "i",
-            "ThanhVanMau": [
-                "yi",
-                "bi",
-                "pi",
-                "mi",
-                "di",
-                "ti",
-                "ni",
-                "li",
-                "ji",
-                "qi",
-                "xi",
-                "zi",
-                "ci",
-                "si",
-                "zhi",
-                "chi",
-                "shi",
-                "ri"
-            ]
-        },
-        {
-            "VanMau": "ia",
-            "ThanhVanMau": [
-                "ya",
-                "dia",
-                "lia",
-                "jia",
-                "qia",
-                "xia"
-            ]
-        },
-        {
-            "VanMau": "ian",
-            "ThanhVanMau": [
-                "yan",
-                "bian",
-                "pian",
-                "mian",
-                "dian",
-                "tian",
-                "nian",
-                "lian",
-                "jian",
-                "qian",
-                "xian"
-            ]
-        },
-        {
-            "VanMau": "iang",
-            "ThanhVanMau": [
-                "yang",
-                "niang",
-                "liang",
-                "jiang",
-                "qiang",
-                "xiang"
-            ]
-        },
-        {
-            "VanMau": "iao",
-            "ThanhVanMau": [
-                "yao",
-                "biao",
-                "piao",
-                "miao",
-                "diao",
-                "tiao",
-                "niao",
-                "liao",
-                "jiao",
-                "qiao",
-                "xiao"
-            ]
-        },
-        {
-            "VanMau": "ie",
-            "ThanhVanMau": [
-                "ye",
-                "bie",
-                "pie",
-                "mie",
-                "die",
-                "tie",
-                "nie",
-                "lie",
-                "jie",
-                "qie",
-                "xie"
-            ]
-        },
-        {
-            "VanMau": "in",
-            "ThanhVanMau": [
-                "yin",
-                "bin",
-                "pin",
-                "min",
-                "nin",
-                "lin",
-                "jin",
-                "qin",
-                "xin"
-            ]
-        },
-        {
-            "VanMau": "ing",
-            "ThanhVanMau": [
-                "ying",
-                "bing",
-                "ping",
-                "ming",
-                "ding",
-                "ting",
-                "ning",
-                "ling",
-                "jing",
-                "qing",
-                "xing"
-            ]
-        },
-        {
-            "VanMau": "iong",
-            "ThanhVanMau": [
-                "yong",
-                "jiong",
-                "qiong",
-                "xiong"
-            ]
-        },
-        {
-            "VanMau": "iou",
-            "ThanhVanMau": [
-                "you",
-                "miu",
-                "diu",
-                "niu",
-                "liu",
-                "jiu",
-                "qiu",
-                "xiu"
-            ]
-        },
-        {
-            "VanMau": "o",
-            "ThanhVanMau": [
-                "o",
-                "bo",
-                "po",
-                "mo",
-                "fo"
-            ]
-        },
-        {
-            "VanMau": "ong",
-            "ThanhVanMau": [
-                "dong",
-                "tong",
-                "nong",
-                "long",
-                "gong",
-                "kong",
-                "hong",
-                "zong",
-                "cong",
-                "song",
-                "zhong",
-                "chong",
-                "rong"
-            ]
-        },
-        {
-            "VanMau": "ou",
-            "ThanhVanMau": [
-                "ou",
-                "pou",
-                "mou",
-                "fou",
-                "dou",
-                "tou",
-                "lou",
-                "gou",
-                "kou",
-                "hou",
-                "zou",
-                "cou",
-                "sou",
-                "zhou",
-                "chou",
-                "shou",
-                "rou"
-            ]
-        },
-        {
-            "VanMau": "u",
-            "ThanhVanMau": [
-                "wu",
-                "bu",
-                "pu",
-                "mu",
-                "fu",
-                "du",
-                "tu",
-                "nu",
-                "lu",
-                "gu",
-                "ku",
-                "hu",
-                "zu",
-                "cu",
-                "su",
-                "zhu",
-                "chu",
-                "shu",
-                "ru"
-            ]
-        },
-        {
-            "VanMau": "ua",
-            "ThanhVanMau": [
-                "wa",
-                "gua",
-                "kua",
-                "hua",
-                "zhua",
-                "shua"
-            ]
-        },
-        {
-            "VanMau": "uai",
-            "ThanhVanMau": [
-                "wai",
-                "guai",
-                "kuai",
-                "huai",
-                "zhuai",
-                "chuai",
-                "shuai"
-            ]
-        },
-        {
-            "VanMau": "uan",
-            "ThanhVanMau": [
-                "wan",
-                "duan",
-                "tuan",
-                "nuan",
-                "luan",
-                "guan",
-                "kuan",
-                "huan",
-                "zuan",
-                "cuan",
-                "suan",
-                "zhuan",
-                "chuan",
-                "shuan",
-                "ruan"
-            ]
-        },
-        {
-            "VanMau": "uang",
-            "ThanhVanMau": [
-                "wang",
-                "guang",
-                "kuang",
-                "huang",
-                "zhuang",
-                "chuang",
-                "shuang"
-            ]
-        },
-        {
-            "VanMau": "uei",
-            "ThanhVanMau": [
-                "wei",
-                "dui",
-                "tui",
-                "gui",
-                "kui",
-                "hui",
-                "zui",
-                "cui",
-                "sui",
-                "zhui",
-                "chui",
-                "shui",
-                "rui"
-            ]
-        },
-        {
-            "VanMau": "uen",
-            "ThanhVanMau": [
-                "wen",
-                "dun",
-                "tun",
-                "lun",
-                "gun",
-                "kun",
-                "hun",
-                "zun",
-                "cun",
-                "sun",
-                "zhun",
-                "chun",
-                "shun",
-                "run"
-            ]
-        },
-        {
-            "VanMau": "ueng",
-            "ThanhVanMau": [
-                "weng"
-            ]
-        },
-        {
-            "VanMau": "uo",
-            "ThanhVanMau": [
-                "wo",
-                "duo",
-                "tuo",
-                "nuo",
-                "luo",
-                "guo",
-                "kuo",
-                "huo",
-                "zuo",
-                "cuo",
-                "suo",
-                "zhuo",
-                "chuo",
-                "shuo",
-                "ruo"
-            ]
-        },
-        {
-            "VanMau": "ü",
-            "ThanhVanMau": [
-                "yu",
-                "nü",
-                "lü",
-                "ju",
-                "qu",
-                "xu"
-            ]
-        },
-        {
-            "VanMau": "üan",
-            "ThanhVanMau": [
-                "yuan",
-                "juan",
-                "quan",
-                "xuan"
-            ]
-        },
-        {
-            "VanMau": "üe",
-            "ThanhVanMau": [
-                "yue",
-                "nüe",
-                "lüe",
-                "jue",
-                "que",
-                "xue"
-            ]
-        },
-        {
-            "VanMau": "ün",
-            "ThanhVanMau": [
-                "yun",
-                "jun",
-                "qun",
-                "xun"
-            ]
-        }
-    ],
-    "all-mappings": [
+    "Mappings": [
         {
             "VanMau": "a",
             "ThanhVanMau": [
@@ -610,7 +25,8 @@
                 "cha",
                 "sha",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-a"
         },
         {
             "VanMau": "ai",
@@ -637,7 +53,8 @@
                 "chai",
                 "shai",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-a"
         },
         {
             "VanMau": "an",
@@ -664,7 +81,8 @@
                 "chan",
                 "shan",
                 "ran"
-            ]
+            ],
+            "FolderName": "nguyen-am-a"
         },
         {
             "VanMau": "ang",
@@ -691,7 +109,8 @@
                 "chang",
                 "shang",
                 "rang"
-            ]
+            ],
+            "FolderName": "nguyen-am-a"
         },
         {
             "VanMau": "ao",
@@ -718,7 +137,8 @@
                 "chao",
                 "shao",
                 "rao"
-            ]
+            ],
+            "FolderName": "nguyen-am-a"
         },
         {
             "VanMau": "e",
@@ -745,7 +165,8 @@
                 "che",
                 "she",
                 "re"
-            ]
+            ],
+            "FolderName": "nguyen-am-e"
         },
         {
             "VanMau": "ei",
@@ -772,7 +193,8 @@
                 "",
                 "shei",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-e"
         },
         {
             "VanMau": "en",
@@ -799,7 +221,8 @@
                 "chen",
                 "shen",
                 "ren"
-            ]
+            ],
+            "FolderName": "nguyen-am-e"
         },
         {
             "VanMau": "eng",
@@ -826,7 +249,8 @@
                 "cheng",
                 "sheng",
                 "reng"
-            ]
+            ],
+            "FolderName": "nguyen-am-e"
         },
         {
             "VanMau": "er",
@@ -853,7 +277,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-e"
         },
         {
             "VanMau": "i",
@@ -880,7 +305,8 @@
                 "chi",
                 "shi",
                 "ri"
-            ]
+            ],
+            "FolderName": "nguyen-am-i"
         },
         {
             "VanMau": "ia",
@@ -907,7 +333,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-i"
         },
         {
             "VanMau": "ian",
@@ -934,7 +361,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-i"
         },
         {
             "VanMau": "iang",
@@ -961,7 +389,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-i"
         },
         {
             "VanMau": "iao",
@@ -988,7 +417,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-i"
         },
         {
             "VanMau": "ie",
@@ -1015,7 +445,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-i"
         },
         {
             "VanMau": "in",
@@ -1042,7 +473,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-i"
         },
         {
             "VanMau": "ing",
@@ -1069,7 +501,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-i"
         },
         {
             "VanMau": "iong",
@@ -1096,7 +529,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-i"
         },
         {
             "VanMau": "iou",
@@ -1123,7 +557,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-i"
         },
         {
             "VanMau": "o",
@@ -1150,7 +585,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-o"
         },
         {
             "VanMau": "ong",
@@ -1177,7 +613,8 @@
                 "chong",
                 "",
                 "rong"
-            ]
+            ],
+            "FolderName": "nguyen-am-o"
         },
         {
             "VanMau": "ou",
@@ -1204,7 +641,8 @@
                 "chou",
                 "shou",
                 "rou"
-            ]
+            ],
+            "FolderName": "nguyen-am-o"
         },
         {
             "VanMau": "u",
@@ -1231,7 +669,8 @@
                 "chu",
                 "shu",
                 "ru"
-            ]
+            ],
+            "FolderName": "nguyen-am-u"
         },
         {
             "VanMau": "ua",
@@ -1258,7 +697,8 @@
                 "",
                 "shua",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-u"
         },
         {
             "VanMau": "uai",
@@ -1285,7 +725,8 @@
                 "chuai",
                 "shuai",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-u"
         },
         {
             "VanMau": "uan",
@@ -1312,7 +753,8 @@
                 "chuan",
                 "shuan",
                 "ruan"
-            ]
+            ],
+            "FolderName": "nguyen-am-u"
         },
         {
             "VanMau": "uang",
@@ -1339,7 +781,8 @@
                 "chuang",
                 "shuang",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-u"
         },
         {
             "VanMau": "uei",
@@ -1366,7 +809,8 @@
                 "chui",
                 "shui",
                 "rui"
-            ]
+            ],
+            "FolderName": "nguyen-am-u"
         },
         {
             "VanMau": "uen",
@@ -1393,7 +837,8 @@
                 "chun",
                 "shun",
                 "run"
-            ]
+            ],
+            "FolderName": "nguyen-am-u"
         },
         {
             "VanMau": "ueng",
@@ -1420,7 +865,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-u"
         },
         {
             "VanMau": "uo",
@@ -1447,7 +893,8 @@
                 "chuo",
                 "shuo",
                 "ruo"
-            ]
+            ],
+            "FolderName": "nguyen-am-u"
         },
         {
             "VanMau": "ü",
@@ -1474,7 +921,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-ü"
         },
         {
             "VanMau": "üan",
@@ -1501,7 +949,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-ü"
         },
         {
             "VanMau": "üe",
@@ -1528,7 +977,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-ü"
         },
         {
             "VanMau": "ün",
@@ -1555,7 +1005,8 @@
                 "",
                 "",
                 ""
-            ]
+            ],
+            "FolderName": "nguyen-am-ü"
         }
     ]
 }

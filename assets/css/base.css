@@ -397,3 +397,11 @@ p {
 .bg-white {
     background-color: var(--white-color);
 }
+
+.bg-info {
+    background-color: var(--info-color);
+}
+
+.text-white {
+    color: var(--white-color);
+}

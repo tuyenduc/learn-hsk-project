@@ -17,7 +17,7 @@
 
 .table-header {
     border-top: 1px solid var(--border-color);
-    background-color: #04AA6D;
+    background-color: var(--info-color);
     font-weight: 500;
     color: var(--white-color);
 }
