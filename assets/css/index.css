@@ -1,0 +1,37 @@
+.table-phat-am {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.table-row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    border-bottom: 1px solid var(--border-color);
+    border-right: 1px solid var(--border-color);
+    list-style: none;
+}
+
+.table-header {
+    border-top: 1px solid var(--border-color);
+    background-color: #04AA6D;
+    font-weight: 500;
+    color: var(--white-color);
+}
+
+.table-item {
+    padding: 7px 0;
+    -webkit-box-flex: 1;
+    flex: 1 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-left: 1px solid var(--border-color);
+}
+
+.table-item-call-listen {
+    cursor: pointer;
+}

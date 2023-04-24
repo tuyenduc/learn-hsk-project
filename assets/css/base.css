@@ -5,6 +5,7 @@
     --primary-color: #EE4D2D;
     --border-color: #dbdbdb;
     --gold-color: #FFCE3E;
+    --info-color: #50a5f1;
 
     --app-width: 1200px;
     --header-height: 120px;
@@ -22,6 +23,15 @@ html {
     line-height: 1.6rem;
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+    margin: 0;
 }
 
 /* Responsive */
@@ -382,4 +392,8 @@ html {
 .btn.btn--size-s {
     height: 32px;
     font-size: 1.2rem;
+}
+
+.bg-white {
+    background-color: var(--white-color);
 }

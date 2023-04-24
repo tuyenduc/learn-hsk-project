@@ -1,11 +1,17 @@
-.header {
+.app-header {
     height: var(--header-height);
+    background-image: linear-gradient(0, #ed8969, #f53e2d);
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
 }
 
 .header-navbar {
     display: flex;
     margin: auto;
-    background-image: linear-gradient(0, #fe6433, #f53e2d);
+    /* background-image: linear-gradient(0, #fe6433, #f53e2d); */
 }
 
 .navbar-list {
@@ -48,7 +54,7 @@
 .header-search {
     height: var(--header-search-with);
     display: flex;
-    background-image: linear-gradient(0, #f3a68d, #f3764f);
+    /* background-image: linear-gradient(0, #f3a68d, #f3764f); */
 }
 
 .header-search-wrap {
@@ -111,14 +117,49 @@
     color: var(--primary-color);
 }
 
-.container {
+.app-content {
     min-height: var(--app-height);
-    display: flex;
-    font-size: 1.4rem;
 }
 
-.main {
+.container {
+    font-size: 1.4rem;
+    margin-top: 20px;
+}
+
+.card {
+    padding: 0;
+    /* -moz-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.35);
+    -ms-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.35);
+    -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.35);
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.35); */
+    border-radius: 0;
     background-color: var(--white-color);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0 solid #f6f6f6;
+}
+
+.card-header {
+    padding: 1.5rem;
+    min-height: 48px;
+    border-bottom: 1px solid #eee;
+}
+
+.card-title {
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    color: var(--info-color);
+}
+
+.card-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.5rem;
 }
 
 /* Authen modal */

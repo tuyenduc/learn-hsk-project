@@ -19,89 +19,100 @@
 
     <body>
         <div class="app">
-            <header class="header">
+            <div class="app-header">
                 <div class="grid">
-                    <nav class="header-navbar">
-                        <ul class="navbar-list">
-                            <li class="navbar-item navbar-item--separate">
-                                <a href="./index.html" class="navbar-link">Từ vựng</a>
-                            </li>
-                            <li class="navbar-item navbar-item--separate">
-                                <a href="./phat-am.html" class="navbar-link navbar-link-active">Phát âm</a>
-                            </li>
-                            <li class="navbar-item">
-                                <a href="./net-co-ban.html" class="navbar-link navbar-link-active">Nét cơ bản</a>
-                            </li>
-                        </ul>
-                    </nav>
-                    <div class="header-search">
-                        <div class="header-search-wrap">
-                            <div class="search-input-wrap">
-                                <input type="text" class="search-input" />
+                    <header class="header">
+                        <nav class="header-navbar">
+                            <ul class="navbar-list">
+                                <li class="navbar-item navbar-item--separate">
+                                    <a href="./index.html" class="navbar-link">Từ vựng</a>
+                                </li>
+                                <li class="navbar-item navbar-item--separate">
+                                    <a href="./phat-am.html" class="navbar-link navbar-link-active">Phát âm</a>
+                                </li>
+                                <li class="navbar-item">
+                                    <a href="./net-co-ban.html" class="navbar-link">Nét cơ bản</a>
+                                </li>
+                            </ul>
+                        </nav>
+                        <div class="header-search">
+                            <div class="header-search-wrap">
+                                <div class="search-input-wrap">
+                                    <input type="text" class="search-input" />
+                                </div>
+                                <button class="search-btn">
+                                    <i class="search-btn-icon fas fa-search"></i>
+                                </button>
                             </div>
-                            <button class="search-btn">
-                                <i class="search-btn-icon fas fa-search"></i>
-                            </button>
-                        </div>
 
-                    </div>
+                        </div>
+                    </header>
                 </div>
-            </header>
-            <div class="container">
-                <div class="grid main">
-                    <div class="grid__column-12">
-                        <p class="title-phat-am">Bảng phát âm</p>
-                        <div class="table-phat-am">
-                            <ul class="table-row table-header">
-                                <li class="table-item">Pinyin</li>
-                                <li class="table-item"></li>
-                                <li class="table-item">b</li>
-                                <li class="table-item">p</li>
-                                <li class="table-item">m</li>
-                                <li class="table-item">f</li>
-                                <li class="table-item">d</li>
-                                <li class="table-item">t</li>
-                                <li class="table-item">n</li>
-                                <li class="table-item">l</li>
-                                <li class="table-item">g</li>
-                                <li class="table-item">k</li>
-                                <li class="table-item">h</li>
-                                <li class="table-item">j</li>
-                                <li class="table-item">q</li>
-                                <li class="table-item">x</li>
-                                <li class="table-item">z</li>
-                                <li class="table-item">c</li>
-                                <li class="table-item">s</li>
-                                <li class="table-item">zh</li>
-                                <li class="table-item">ch</li>
-                                <li class="table-item">sh</li>
-                                <li class="table-item">r</li>
-                            </ul>
-                            <ul class="table-row">
-                                <li class="table-item">a</li>
-                                <li class="table-item table-item-call-listen">a</li>
-                                <li class="table-item table-item-call-listen">ba</li>
-                                <li class="table-item">p</li>
-                                <li class="table-item">m</li>
-                                <li class="table-item">f</li>
-                                <li class="table-item">d</li>
-                                <li class="table-item">t</li>
-                                <li class="table-item">n</li>
-                                <li class="table-item">l</li>
-                                <li class="table-item">g</li>
-                                <li class="table-item">k</li>
-                                <li class="table-item">h</li>
-                                <li class="table-item">j</li>
-                                <li class="table-item">q</li>
-                                <li class="table-item">x</li>
-                                <li class="table-item">z</li>
-                                <li class="table-item">c</li>
-                                <li class="table-item">s</li>
-                                <li class="table-item">zh</li>
-                                <li class="table-item">ch</li>
-                                <li class="table-item">sh</li>
-                                <li class="table-item">r</li>
-                            </ul>
+            </div>
+            <div class="app-content">
+                <div class="grid">
+                    <div class="container">
+                        <div class="grid__column-12">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h4 class="card-title">Bảng phát âm</h4>
+                                </div>
+                                <div class="card-body">
+                                    <div class="table-phat-am">
+                                        <ul class="table-row table-header">
+                                            <li class="table-item">Pinyin</li>
+                                            <li class="table-item"></li>
+                                            <li class="table-item">b</li>
+                                            <li class="table-item">p</li>
+                                            <li class="table-item">m</li>
+                                            <li class="table-item">f</li>
+                                            <li class="table-item">d</li>
+                                            <li class="table-item">t</li>
+                                            <li class="table-item">n</li>
+                                            <li class="table-item">l</li>
+                                            <li class="table-item">g</li>
+                                            <li class="table-item">k</li>
+                                            <li class="table-item">h</li>
+                                            <li class="table-item">j</li>
+                                            <li class="table-item">q</li>
+                                            <li class="table-item">x</li>
+                                            <li class="table-item">z</li>
+                                            <li class="table-item">c</li>
+                                            <li class="table-item">s</li>
+                                            <li class="table-item">zh</li>
+                                            <li class="table-item">ch</li>
+                                            <li class="table-item">sh</li>
+                                            <li class="table-item">r</li>
+                                        </ul>
+                                        <ul class="table-row">
+                                            <li class="table-item">a</li>
+                                            <li class="table-item table-item-call-listen">a</li>
+                                            <li class="table-item table-item-call-listen">ba</li>
+                                            <li class="table-item">p</li>
+                                            <li class="table-item">m</li>
+                                            <li class="table-item">f</li>
+                                            <li class="table-item">d</li>
+                                            <li class="table-item">t</li>
+                                            <li class="table-item">n</li>
+                                            <li class="table-item">l</li>
+                                            <li class="table-item">g</li>
+                                            <li class="table-item">k</li>
+                                            <li class="table-item">h</li>
+                                            <li class="table-item">j</li>
+                                            <li class="table-item">q</li>
+                                            <li class="table-item">x</li>
+                                            <li class="table-item">z</li>
+                                            <li class="table-item">c</li>
+                                            <li class="table-item">s</li>
+                                            <li class="table-item">zh</li>
+                                            <li class="table-item">ch</li>
+                                            <li class="table-item">sh</li>
+                                            <li class="table-item">r</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
