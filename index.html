@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Từ vựng</title>
+        <title>New Words</title>
         <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap&subset=vietnamese"
             rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/css/all.min.css">
@@ -14,7 +14,6 @@
         <link rel="stylesheet" href="./assets/css/main.css">
         <link rel="stylesheet" href="./assets/css/index.css">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-        <script src="./assets/js/index.js"></script>
     </head>
 
     <body>
@@ -25,13 +24,16 @@
                         <nav class="header-navbar">
                             <ul class="navbar-list">
                                 <li class="navbar-item navbar-item--separate">
-                                    <a href="./index.html" class="navbar-link navbar-link-active">Từ vựng</a>
+                                    <a href="./index.html" class="navbar-link navbar-link-active">New Words</a>
                                 </li>
                                 <li class="navbar-item navbar-item--separate">
-                                    <a href="./phat-am.html" class="navbar-link">Phát âm</a>
+                                    <a href="./phat-am.html" class="navbar-link">Pinyin Chart</a>
                                 </li>
                                 <li class="navbar-item">
-                                    <a href="./net-co-ban.html" class="navbar-link">Nét cơ bản</a>
+                                    <a href="./net-co-ban.html" class="navbar-link">Basic Strokes</a>
+                                </li>
+                                <li class="navbar-item">
+                                    <a href="./self-check.html" class="navbar-link">Self Check</a>
                                 </li>
                             </ul>
                         </nav>
@@ -44,7 +46,6 @@
                                     <i class="search-btn-icon fas fa-search"></i>
                                 </button>
                             </div>
-
                         </div>
                     </header>
                 </div>
@@ -55,60 +56,20 @@
                         <div class="grid__column-12">
                             <div class="card">
                                 <div class="card-header">
-                                    <h4 class="card-title">Từ vựng</h4>
+                                    <h4 class="card-title">New Words</h4>
                                 </div>
                                 <div class="card-body">
                                     <div class="table-phat-am">
                                         <ul class="table-row table-header">
+                                            <li class="table-item">Simplified Chinese</li>
                                             <li class="table-item">Pinyin</li>
-                                            <li class="table-item"></li>
-                                            <li class="table-item">b</li>
-                                            <li class="table-item">p</li>
-                                            <li class="table-item">m</li>
-                                            <li class="table-item">f</li>
-                                            <li class="table-item">d</li>
-                                            <li class="table-item">t</li>
-                                            <li class="table-item">n</li>
-                                            <li class="table-item">l</li>
-                                            <li class="table-item">g</li>
-                                            <li class="table-item">k</li>
-                                            <li class="table-item">h</li>
-                                            <li class="table-item">j</li>
-                                            <li class="table-item">q</li>
-                                            <li class="table-item">x</li>
-                                            <li class="table-item">z</li>
-                                            <li class="table-item">c</li>
-                                            <li class="table-item">s</li>
-                                            <li class="table-item">zh</li>
-                                            <li class="table-item">ch</li>
-                                            <li class="table-item">sh</li>
-                                            <li class="table-item">r</li>
+                                            <li class="table-item">Category</li>
+                                            <li class="table-item">Sino-Vietnamese</li>
+                                            <li class="table-item">Vietnamese Meaning</li>
+                                            <li class="table-item">HSK</li>
                                         </ul>
-                                        <ul class="table-row">
-                                            <li class="table-item">a</li>
-                                            <li class="table-item table-item-call-listen">a</li>
-                                            <li class="table-item table-item-call-listen">ba</li>
-                                            <li class="table-item">p</li>
-                                            <li class="table-item">m</li>
-                                            <li class="table-item">f</li>
-                                            <li class="table-item">d</li>
-                                            <li class="table-item">t</li>
-                                            <li class="table-item">n</li>
-                                            <li class="table-item">l</li>
-                                            <li class="table-item">g</li>
-                                            <li class="table-item">k</li>
-                                            <li class="table-item">h</li>
-                                            <li class="table-item">j</li>
-                                            <li class="table-item">q</li>
-                                            <li class="table-item">x</li>
-                                            <li class="table-item">z</li>
-                                            <li class="table-item">c</li>
-                                            <li class="table-item">s</li>
-                                            <li class="table-item">zh</li>
-                                            <li class="table-item">ch</li>
-                                            <li class="table-item">sh</li>
-                                            <li class="table-item">r</li>
-                                        </ul>
+                                    </div>
+                                    <div class="table-phat-am" id="table_new_words">
                                     </div>
                                 </div>
                             </div>
@@ -118,60 +79,7 @@
                 </div>
             </div>
         </div>
-        <div class="modal">
-            <div class="modal_overlay"></div>
-            <div class="modal-dialog">
-                <div class="modal-header">
-                    <h3 class="modal-header-title">Login</h3>
-                    <button class="modal-header-close">x</button>
-                </div>
-                <div class="modal-body">
-                    <p>Modal</p>
-                </div>
-                <div class="modal-footer">
-                    <button class="btn">Close</button>
-                </div>
-            </div>
-            <div class="modal_body">
-                <div class="auth-form">
-                    <div class="auth-form__container">
-                        <div class="auth-form__header">
-                            <h3 class="auth-form__heading">Login</h3>
-                            <span class="auth-form__switch-btn">Sign up</span>
-                        </div>
-                        <div class="auth-form__form">
-                            <div class="auth-form__group">
-                                <input type="text" class="auth-form__input" placeholder="Your email">
-                            </div>
-                            <div class="auth-form__group">
-                                <input type="password" class="auth-form__input" placeholder="Your password">
-                            </div>
-                        </div>
-                        <div class="auth-form__aside">
-                            <p class="auth-form__help">
-                                <a href="" class="auth-form__help-link auth-form__help-forgot">Forgot password</a>
-                                <span class="auth-form__help-separate"></span>
-                                <a href="" class="auth-form__help-link">Need help?</a>
-                            </p>
-                        </div>
-                        <div class="auth-form__controls">
-                            <button class="btn mr-3">COME BACK</button>
-                            <button class="btn btn--primary">SIGN IN</button>
-                        </div>
-                    </div>
-                    <div class="auth-form__socials">
-                        <a href="" class="auth-form__socials--facebook">
-                            <i class="auth-form__socials-icon fab fa-facebook-square"></i>
-                            <span class="auth-form__socials-title">Connect with facebook</span>
-                        </a>
-                        <a href="" class="auth-form__socials--google">
-                            <i class="auth-form__socials-icon fab fa-google"></i>
-                            <span class="auth-form__socials-title">Connect with google</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <script type="module" src="./assets/js/index.js"></script>
     </body>
 
 </html>

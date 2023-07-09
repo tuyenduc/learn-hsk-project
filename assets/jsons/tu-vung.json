@@ -1,0 +1,1343 @@
+[
+    {
+        "STT": 1,
+        "SimplifiedChinese": "爱",
+        "Pinyin": "ài",
+        "Category": "động từ",
+        "SinoVietnamese": "ái",
+        "Meaning": "yêu, thích",
+        "HSK": 1
+    },
+    {
+        "STT": 2,
+        "SimplifiedChinese": "八",
+        "Pinyin": "bā",
+        "Category": "số từ",
+        "SinoVietnamese": "bát",
+        "Meaning": "số 8",
+        "HSK": 1
+    },
+    {
+        "STT": 3,
+        "SimplifiedChinese": "爸爸",
+        "Pinyin": "bàba",
+        "Category": "danh từ",
+        "SinoVietnamese": "ba ba",
+        "Meaning": "cha, bố, ba",
+        "HSK": 1
+    },
+    {
+        "STT": 4,
+        "SimplifiedChinese": "被子",
+        "Pinyin": "bèizi",
+        "Category": "danh từ",
+        "SinoVietnamese": "bôi tử",
+        "Meaning": "ly, tách, cốc",
+        "HSK": 1
+    },
+    {
+        "STT": 5,
+        "SimplifiedChinese": "本",
+        "Pinyin": "běn",
+        "Category": "lượng từ",
+        "SinoVietnamese": "bổn ",
+        "Meaning": "quyển, cuốn",
+        "HSK": 1
+    },
+    {
+        "STT": 6,
+        "SimplifiedChinese": "不客气",
+        "Pinyin": "búkèqi",
+        "Category": "",
+        "SinoVietnamese": "bất khách khí",
+        "Meaning": "đừng khách sáo",
+        "HSK": 1
+    },
+    {
+        "STT": 7,
+        "SimplifiedChinese": "不",
+        "Pinyin": "bù",
+        "Category": "phó từ",
+        "SinoVietnamese": "bất",
+        "Meaning": "không cần, không, đừng",
+        "HSK": 1
+    },
+    {
+        "STT": 8,
+        "SimplifiedChinese": "菜",
+        "Pinyin": "cài",
+        "Category": "danh từ",
+        "SinoVietnamese": "thái",
+        "Meaning": "món ăn, thức ăn, đồ ăn",
+        "HSK": 1
+    },
+    {
+        "STT": 9,
+        "SimplifiedChinese": "茶",
+        "Pinyin": "chá",
+        "Category": "danh từ",
+        "SinoVietnamese": "trà",
+        "Meaning": "trà",
+        "HSK": 1
+    },
+    {
+        "STT": 10,
+        "SimplifiedChinese": "吃",
+        "Pinyin": "chī",
+        "Category": "động từ",
+        "SinoVietnamese": "ngật",
+        "Meaning": "ăn",
+        "HSK": 1
+    },
+    {
+        "STT": 11,
+        "SimplifiedChinese": "出租车",
+        "Pinyin": "chūzūchē",
+        "Category": "danh từ",
+        "SinoVietnamese": "xuất tô xa",
+        "Meaning": "taxi",
+        "HSK": 1
+    },
+    {
+        "STT": 12,
+        "SimplifiedChinese": "大",
+        "Pinyin": "dà",
+        "Category": "tính từ",
+        "SinoVietnamese": "đại",
+        "Meaning": "lớn",
+        "HSK": 1
+    },
+    {
+        "STT": 13,
+        "SimplifiedChinese": "的",
+        "Pinyin": "de",
+        "Category": "trợ từ",
+        "SinoVietnamese": "đích",
+        "Meaning": "dùng sau định ngữ",
+        "HSK": 1
+    },
+    {
+        "STT": 14,
+        "SimplifiedChinese": "点",
+        "Pinyin": "diǎn",
+        "Category": "lượng",
+        "SinoVietnamese": "điểm",
+        "Meaning": "giờ",
+        "HSK": 1
+    },
+    {
+        "STT": 15,
+        "SimplifiedChinese": "电脑",
+        "Pinyin": "diànnǎo",
+        "Category": "danh từ",
+        "SinoVietnamese": "điện não",
+        "Meaning": "máy vi tính",
+        "HSK": 1
+    },
+    {
+        "STT": 16,
+        "SimplifiedChinese": "打电话",
+        "Pinyin": "dǎdiànhuà",
+        "Category": "",
+        "SinoVietnamese": "đả điện thoại",
+        "Meaning": "gọi điện thoại",
+        "HSK": 1
+    },
+    {
+        "STT": 17,
+        "SimplifiedChinese": "电话",
+        "Pinyin": "diànhuà",
+        "Category": "danh từ",
+        "SinoVietnamese": "điện thoại",
+        "Meaning": "điện thoại",
+        "HSK": 1
+    },
+    {
+        "STT": 18,
+        "SimplifiedChinese": "电视",
+        "Pinyin": "diànshì",
+        "Category": "danh từ",
+        "SinoVietnamese": "điện thị",
+        "Meaning": "tivi",
+        "HSK": 1
+    },
+    {
+        "STT": 19,
+        "SimplifiedChinese": "电影",
+        "Pinyin": "diànyǐng",
+        "Category": "danh từ",
+        "SinoVietnamese": "điện ảnh",
+        "Meaning": "phim",
+        "HSK": 1
+    },
+    {
+        "STT": 20,
+        "SimplifiedChinese": "东西",
+        "Pinyin": "dōngxi",
+        "Category": "danh từ",
+        "SinoVietnamese": "đông tây",
+        "Meaning": "đồ, đồ đạc",
+        "HSK": 1
+    },
+    {
+        "STT": 21,
+        "SimplifiedChinese": "都",
+        "Pinyin": "dōu",
+        "Category": "phó",
+        "SinoVietnamese": "đô",
+        "Meaning": "đều",
+        "HSK": 1
+    },
+    {
+        "STT": 22,
+        "SimplifiedChinese": "读",
+        "Pinyin": "dú",
+        "Category": "động từ",
+        "SinoVietnamese": "độc",
+        "Meaning": "đọc",
+        "HSK": 1
+    },
+    {
+        "STT": 23,
+        "SimplifiedChinese": "对不起",
+        "Pinyin": "duìbùqǐ",
+        "Category": "động từ",
+        "SinoVietnamese": "đối bất khởi",
+        "Meaning": "xin lỗi",
+        "HSK": 1
+    },
+    {
+        "STT": 24,
+        "SimplifiedChinese": "多",
+        "Pinyin": "duō",
+        "Category": "phó từ",
+        "SinoVietnamese": "đa",
+        "Meaning": "nhiều, hơn (chỉ mức độ)",
+        "HSK": 1
+    },
+    {
+        "STT": 25,
+        "SimplifiedChinese": "多少",
+        "Pinyin": "duōshao",
+        "Category": "đại từ",
+        "SinoVietnamese": "đa thiếu",
+        "Meaning": "bao nhiêu",
+        "HSK": 1
+    },
+    {
+        "STT": 26,
+        "SimplifiedChinese": "儿子",
+        "Pinyin": "érzi",
+        "Category": "danh từ",
+        "SinoVietnamese": "nhi tử",
+        "Meaning": "con trai",
+        "HSK": 1
+    },
+    {
+        "STT": 27,
+        "SimplifiedChinese": "二",
+        "Pinyin": "èr",
+        "Category": "số",
+        "SinoVietnamese": "nhị",
+        "Meaning": "số hai, số 2, 2, hai",
+        "HSK": 1
+    },
+    {
+        "STT": 28,
+        "SimplifiedChinese": "饭店",
+        "Pinyin": "fàndiàn",
+        "Category": "danh từ",
+        "SinoVietnamese": "phạn điếm",
+        "Meaning": "khách sạn, nhà hàng",
+        "HSK": 1
+    },
+    {
+        "STT": 29,
+        "SimplifiedChinese": "飞机",
+        "Pinyin": "fēijī",
+        "Category": "danh từ",
+        "SinoVietnamese": "phi cơ",
+        "Meaning": "máy bay",
+        "HSK": 1
+    },
+    {
+        "STT": 30,
+        "SimplifiedChinese": "分钟",
+        "Pinyin": "fēnzhōng",
+        "Category": "danh từ",
+        "SinoVietnamese": "phân trung",
+        "Meaning": "phút",
+        "HSK": 1
+    },
+    {
+        "STT": 31,
+        "SimplifiedChinese": "高兴",
+        "Pinyin": "gāoxìng",
+        "Category": "tính từ",
+        "SinoVietnamese": "cao hứng",
+        "Meaning": "vui, phấn khởi",
+        "HSK": 1
+    },
+    {
+        "STT": 32,
+        "SimplifiedChinese": "个",
+        "Pinyin": "gè",
+        "Category": "lượng từ",
+        "SinoVietnamese": "cá",
+        "Meaning": "cái",
+        "HSK": 1
+    },
+    {
+        "STT": 33,
+        "SimplifiedChinese": "工作",
+        "Pinyin": "gōngzuò",
+        "Category": "danh từ, động từ",
+        "SinoVietnamese": "công tác",
+        "Meaning": "làm việc, công việc",
+        "HSK": 1
+    },
+    {
+        "STT": 34,
+        "SimplifiedChinese": "狗",
+        "Pinyin": "gǒu",
+        "Category": "danh từ",
+        "SinoVietnamese": "cẩu",
+        "Meaning": "chó",
+        "HSK": 1
+    },
+    {
+        "STT": 35,
+        "SimplifiedChinese": "汉语",
+        "Pinyin": "Hànyǔ",
+        "Category": "danh từ",
+        "SinoVietnamese": "hán ngữ",
+        "Meaning": "tiếng Trung Quốc",
+        "HSK": 1
+    },
+    {
+        "STT": 36,
+        "SimplifiedChinese": "好",
+        "Pinyin": "hǎo",
+        "Category": "tính từ",
+        "SinoVietnamese": "hảo",
+        "Meaning": "khỏe, tốt…",
+        "HSK": 1
+    },
+    {
+        "STT": 37,
+        "SimplifiedChinese": "号",
+        "Pinyin": "hào",
+        "Category": "danh từ",
+        "SinoVietnamese": "hiệu",
+        "Meaning": "ngày",
+        "HSK": 1
+    },
+    {
+        "STT": 38,
+        "SimplifiedChinese": "喝",
+        "Pinyin": "hē",
+        "Category": "động từ",
+        "SinoVietnamese": "hát",
+        "Meaning": "uống",
+        "HSK": 1
+    },
+    {
+        "STT": 39,
+        "SimplifiedChinese": "和",
+        "Pinyin": "hé",
+        "Category": "liên từ",
+        "SinoVietnamese": "hòa",
+        "Meaning": "và",
+        "HSK": 1
+    },
+    {
+        "STT": 40,
+        "SimplifiedChinese": "很",
+        "Pinyin": "hěn",
+        "Category": "phó từ",
+        "SinoVietnamese": "ngận",
+        "Meaning": "rất",
+        "HSK": 1
+    },
+    {
+        "STT": 41,
+        "SimplifiedChinese": "后面",
+        "Pinyin": "hòumiàn",
+        "Category": "danh từ",
+        "SinoVietnamese": "hậu diện",
+        "Meaning": "phía sau",
+        "HSK": 1
+    },
+    {
+        "STT": 42,
+        "SimplifiedChinese": "回",
+        "Pinyin": "huí",
+        "Category": "động từ",
+        "SinoVietnamese": "hồi",
+        "Meaning": "về, trở về",
+        "HSK": 1
+    },
+    {
+        "STT": 43,
+        "SimplifiedChinese": "会",
+        "Pinyin": "huì",
+        "Category": "đtnn",
+        "SinoVietnamese": "hội",
+        "Meaning": "biết",
+        "HSK": 1
+    },
+    {
+        "STT": 44,
+        "SimplifiedChinese": "几",
+        "Pinyin": "jǐ",
+        "Category": "đại từ",
+        "SinoVietnamese": "kỷ",
+        "Meaning": "mấy",
+        "HSK": 1
+    },
+    {
+        "STT": 45,
+        "SimplifiedChinese": "家",
+        "Pinyin": "jiā",
+        "Category": "danh từ",
+        "SinoVietnamese": "gia",
+        "Meaning": "nhà",
+        "HSK": 1
+    },
+    {
+        "STT": 46,
+        "SimplifiedChinese": "叫",
+        "Pinyin": "jiào",
+        "Category": "động từ",
+        "SinoVietnamese": "khiếu",
+        "Meaning": "tên là, gọi là",
+        "HSK": 1
+    },
+    {
+        "STT": 47,
+        "SimplifiedChinese": "今天",
+        "Pinyin": "jīntiān",
+        "Category": "danh từ",
+        "SinoVietnamese": "kim thiên",
+        "Meaning": "hôm nay",
+        "HSK": 1
+    },
+    {
+        "STT": 48,
+        "SimplifiedChinese": "九",
+        "Pinyin": "jiǔ",
+        "Category": "số từ",
+        "SinoVietnamese": "cửu",
+        "Meaning": "số 9, số chín, 9, chín",
+        "HSK": 1
+    },
+    {
+        "STT": 49,
+        "SimplifiedChinese": "开",
+        "Pinyin": "kāi",
+        "Category": "động từ",
+        "SinoVietnamese": "khai",
+        "Meaning": "lái, mở",
+        "HSK": 1
+    },
+    {
+        "STT": 50,
+        "SimplifiedChinese": "看",
+        "Pinyin": "kàn",
+        "Category": "động từ",
+        "SinoVietnamese": "khán",
+        "Meaning": "nhìn, xem",
+        "HSK": 1
+    },
+    {
+        "STT": 51,
+        "SimplifiedChinese": "看见",
+        "Pinyin": "kànjiàn",
+        "Category": "động từ",
+        "SinoVietnamese": "khán kiến",
+        "Meaning": "nhìn thấy",
+        "HSK": 1
+    },
+    {
+        "STT": 52,
+        "SimplifiedChinese": "块",
+        "Pinyin": "kuài",
+        "Category": "lượng từ",
+        "SinoVietnamese": "khối",
+        "Meaning": "đồng, tệ (đơn vị tiền tệ)",
+        "HSK": 1
+    },
+    {
+        "STT": 53,
+        "SimplifiedChinese": "来",
+        "Pinyin": "lái",
+        "Category": "động từ",
+        "SinoVietnamese": "lai",
+        "Meaning": "đến, tới",
+        "HSK": 1
+    },
+    {
+        "STT": 54,
+        "SimplifiedChinese": "老师",
+        "Pinyin": "lǎoshī",
+        "Category": "danh từ",
+        "SinoVietnamese": "lão sư",
+        "Meaning": "thầy giáo, cô giáo, thầy, cô, giáo viên",
+        "HSK": 1
+    },
+    {
+        "STT": 55,
+        "SimplifiedChinese": "了",
+        "Pinyin": "le",
+        "Category": "trợ từ",
+        "SinoVietnamese": "liễu",
+        "Meaning": "dùng ở cuối câu",
+        "HSK": 1
+    },
+    {
+        "STT": 56,
+        "SimplifiedChinese": "冷",
+        "Pinyin": "lěng",
+        "Category": "tính từ",
+        "SinoVietnamese": "lãnh",
+        "Meaning": "lạnh",
+        "HSK": 1
+    },
+    {
+        "STT": 57,
+        "SimplifiedChinese": "里",
+        "Pinyin": "lǐ",
+        "Category": "danh từ",
+        "SinoVietnamese": "lí",
+        "Meaning": "trong, bên trong",
+        "HSK": 1
+    },
+    {
+        "STT": 58,
+        "SimplifiedChinese": "六",
+        "Pinyin": "liù",
+        "Category": "số từ",
+        "SinoVietnamese": "lục",
+        "Meaning": "số 6, số sáu, 6, sáu",
+        "HSK": 1
+    },
+    {
+        "STT": 59,
+        "SimplifiedChinese": "妈妈",
+        "Pinyin": "māma",
+        "Category": "danh từ",
+        "SinoVietnamese": "ma ma",
+        "Meaning": "mẹ",
+        "HSK": 1
+    },
+    {
+        "STT": 60,
+        "SimplifiedChinese": "吗",
+        "Pinyin": "ma",
+        "Category": "trợ từ",
+        "SinoVietnamese": "ma",
+        "Meaning": "dùng ở cuối câu hỏi",
+        "HSK": 1
+    },
+    {
+        "STT": 61,
+        "SimplifiedChinese": "买",
+        "Pinyin": "mǎi",
+        "Category": "động từ",
+        "SinoVietnamese": "mãi",
+        "Meaning": "mua",
+        "HSK": 1
+    },
+    {
+        "STT": 62,
+        "SimplifiedChinese": "猫",
+        "Pinyin": "māo",
+        "Category": "danh từ",
+        "SinoVietnamese": "miêu",
+        "Meaning": "mèo",
+        "HSK": 1
+    },
+    {
+        "STT": 63,
+        "SimplifiedChinese": "没关系",
+        "Pinyin": "méiguānxi",
+        "Category": "một quan hệ",
+        "SinoVietnamese": "không sao đâu",
+        "Meaning": "",
+        "HSK": 1
+    },
+    {
+        "STT": 64,
+        "SimplifiedChinese": "没有",
+        "Pinyin": "méiyǒu",
+        "Category": "phó từ",
+        "SinoVietnamese": "một hữu",
+        "Meaning": "không có",
+        "HSK": 1
+    },
+    {
+        "STT": 65,
+        "SimplifiedChinese": "米饭",
+        "Pinyin": "mǐfàn",
+        "Category": "danh từ",
+        "SinoVietnamese": "mễ phạn",
+        "Meaning": "cơm",
+        "HSK": 1
+    },
+    {
+        "STT": 66,
+        "SimplifiedChinese": "名字",
+        "Pinyin": "míngzi",
+        "Category": "danh từ",
+        "SinoVietnamese": "danh tự",
+        "Meaning": "tên",
+        "HSK": 1
+    },
+    {
+        "STT": 67,
+        "SimplifiedChinese": "明天",
+        "Pinyin": "míngtiān",
+        "Category": "danh từ",
+        "SinoVietnamese": "minh thiên",
+        "Meaning": "ngày mai",
+        "HSK": 1
+    },
+    {
+        "STT": 68,
+        "SimplifiedChinese": "哪",
+        "Pinyin": "nǎ",
+        "Category": "đại từ",
+        "SinoVietnamese": "ná",
+        "Meaning": "nào",
+        "HSK": 1
+    },
+    {
+        "STT": 69,
+        "SimplifiedChinese": "哪儿",
+        "Pinyin": "nǎr",
+        "Category": "đại từ",
+        "SinoVietnamese": "ná nhi",
+        "Meaning": "ở đâu",
+        "HSK": 1
+    },
+    {
+        "STT": 70,
+        "SimplifiedChinese": "那",
+        "Pinyin": "nà",
+        "Category": "đại từ",
+        "SinoVietnamese": "na",
+        "Meaning": "kia, đó",
+        "HSK": 1
+    },
+    {
+        "STT": 71,
+        "SimplifiedChinese": "呢",
+        "Pinyin": "ne",
+        "Category": "trợ từ",
+        "SinoVietnamese": "ni",
+        "Meaning": "dùng cuối câu hỏi",
+        "HSK": 1
+    },
+    {
+        "STT": 72,
+        "SimplifiedChinese": "能",
+        "Pinyin": "néng",
+        "Category": "đtnn",
+        "SinoVietnamese": "năng",
+        "Meaning": "có thể",
+        "HSK": 1
+    },
+    {
+        "STT": 73,
+        "SimplifiedChinese": "你",
+        "Pinyin": "nǐ",
+        "Category": "danh từ",
+        "SinoVietnamese": "nhĩ",
+        "Meaning": "anh, chị, bạn…",
+        "HSK": 1
+    },
+    {
+        "STT": 74,
+        "SimplifiedChinese": "年",
+        "Pinyin": "nián",
+        "Category": "danh từ",
+        "SinoVietnamese": "niên",
+        "Meaning": "năm",
+        "HSK": 1
+    },
+    {
+        "STT": 75,
+        "SimplifiedChinese": "女儿",
+        "Pinyin": "nǚ’ér",
+        "Category": "danh từ",
+        "SinoVietnamese": "nữ nhi",
+        "Meaning": "con gái",
+        "HSK": 1
+    },
+    {
+        "STT": 76,
+        "SimplifiedChinese": "朋友",
+        "Pinyin": "péngyou",
+        "Category": "danh từ",
+        "SinoVietnamese": "bằng hữu",
+        "Meaning": "bạn, bạn bè",
+        "HSK": 1
+    },
+    {
+        "STT": 77,
+        "SimplifiedChinese": "漂亮",
+        "Pinyin": "piàoliang",
+        "Category": "tính từ",
+        "SinoVietnamese": "phiếu lượng",
+        "Meaning": "đẹp",
+        "HSK": 1
+    },
+    {
+        "STT": 78,
+        "SimplifiedChinese": "苹果",
+        "Pinyin": "píngguǒ",
+        "Category": "danh từ",
+        "SinoVietnamese": "bình quả",
+        "Meaning": "táo",
+        "HSK": 1
+    },
+    {
+        "STT": 79,
+        "SimplifiedChinese": "七",
+        "Pinyin": "qī",
+        "Category": "số từ",
+        "SinoVietnamese": "thất",
+        "Meaning": "số 7, số bảy",
+        "HSK": 1
+    },
+    {
+        "STT": 80,
+        "SimplifiedChinese": "前面",
+        "Pinyin": "qiánmiàn",
+        "Category": "danh từ",
+        "SinoVietnamese": "tiền diện",
+        "Meaning": "phía trước",
+        "HSK": 1
+    },
+    {
+        "STT": 81,
+        "SimplifiedChinese": "前",
+        "Pinyin": "qián",
+        "Category": "danh từ",
+        "SinoVietnamese": "tiền",
+        "Meaning": "trước",
+        "HSK": 1
+    },
+    {
+        "STT": 82,
+        "SimplifiedChinese": "请",
+        "Pinyin": "qǐng",
+        "Category": "động từ",
+        "SinoVietnamese": "thỉnh",
+        "Meaning": "mời, xin (lịch sự)",
+        "HSK": 1
+    },
+    {
+        "STT": 83,
+        "SimplifiedChinese": "去",
+        "Pinyin": "qù",
+        "Category": "động từ",
+        "SinoVietnamese": "khứ",
+        "Meaning": "đi, đi đến",
+        "HSK": 1
+    },
+    {
+        "STT": 84,
+        "SimplifiedChinese": "热",
+        "Pinyin": "rè",
+        "Category": "tính từ",
+        "SinoVietnamese": "nhiệt",
+        "Meaning": "nóng",
+        "HSK": 1
+    },
+    {
+        "STT": 85,
+        "SimplifiedChinese": "人",
+        "Pinyin": "rén",
+        "Category": "danh từ",
+        "SinoVietnamese": "nhân",
+        "Meaning": "Người",
+        "HSK": 1
+    },
+    {
+        "STT": 86,
+        "SimplifiedChinese": "认识",
+        "Pinyin": "rènshi",
+        "Category": "động từ",
+        "SinoVietnamese": "nhận thức",
+        "Meaning": "quen, biết",
+        "HSK": 1
+    },
+    {
+        "STT": 87,
+        "SimplifiedChinese": "三",
+        "Pinyin": "sān",
+        "Category": "số từ",
+        "SinoVietnamese": "tam",
+        "Meaning": "số 3, số ba",
+        "HSK": 1
+    },
+    {
+        "STT": 88,
+        "SimplifiedChinese": "商店",
+        "Pinyin": "shāngdiàn",
+        "Category": "danh từ",
+        "SinoVietnamese": "thương điếm",
+        "Meaning": "cửa hàng",
+        "HSK": 1
+    },
+    {
+        "STT": 89,
+        "SimplifiedChinese": "上",
+        "Pinyin": "shàng",
+        "Category": "danh từ",
+        "SinoVietnamese": "thượng",
+        "Meaning": "trên, phía trên",
+        "HSK": 1
+    },
+    {
+        "STT": 90,
+        "SimplifiedChinese": "上午",
+        "Pinyin": "shàngwǔ",
+        "Category": "danh từ",
+        "SinoVietnamese": "thượng ngọ",
+        "Meaning": "buổi sáng",
+        "HSK": 1
+    },
+    {
+        "STT": 91,
+        "SimplifiedChinese": "少",
+        "Pinyin": "shǎo",
+        "Category": "tính từ",
+        "SinoVietnamese": "thiếu",
+        "Meaning": "ít",
+        "HSK": 1
+    },
+    {
+        "STT": 92,
+        "SimplifiedChinese": "谁",
+        "Pinyin": "shéi",
+        "Category": "đại từ",
+        "SinoVietnamese": "thùy",
+        "Meaning": "ai",
+        "HSK": 1
+    },
+    {
+        "STT": 93,
+        "SimplifiedChinese": "什么",
+        "Pinyin": "shénme",
+        "Category": "đại từ",
+        "SinoVietnamese": "thậm ma",
+        "Meaning": "gì, cái gì",
+        "HSK": 1
+    },
+    {
+        "STT": 94,
+        "SimplifiedChinese": "十",
+        "Pinyin": "shí",
+        "Category": "số từ",
+        "SinoVietnamese": "thập",
+        "Meaning": "số 10, số mười",
+        "HSK": 1
+    },
+    {
+        "STT": 95,
+        "SimplifiedChinese": "时候",
+        "Pinyin": "shíhòu",
+        "Category": "danh từ",
+        "SinoVietnamese": "thời hậu",
+        "Meaning": "lúc, lúc nào, khi, khi nào",
+        "HSK": 1
+    },
+    {
+        "STT": 96,
+        "SimplifiedChinese": "是",
+        "Pinyin": "shì",
+        "Category": "động từ",
+        "SinoVietnamese": "thị",
+        "Meaning": "là",
+        "HSK": 1
+    },
+    {
+        "STT": 97,
+        "SimplifiedChinese": "书",
+        "Pinyin": "shū",
+        "Category": "danh từ",
+        "SinoVietnamese": "thư",
+        "Meaning": "sách",
+        "HSK": 1
+    },
+    {
+        "STT": 98,
+        "SimplifiedChinese": "水",
+        "Pinyin": "shuǐ",
+        "Category": "danh từ",
+        "SinoVietnamese": "thủy",
+        "Meaning": "nước",
+        "HSK": 1
+    },
+    {
+        "STT": 99,
+        "SimplifiedChinese": "水果",
+        "Pinyin": "shuǐguǒ",
+        "Category": "danh từ",
+        "SinoVietnamese": "thủy quả",
+        "Meaning": "trái cây, hoa quả, quả",
+        "HSK": 1
+    },
+    {
+        "STT": 100,
+        "SimplifiedChinese": "睡觉",
+        "Pinyin": "shuìjiào",
+        "Category": "động từ",
+        "SinoVietnamese": "thụy giác",
+        "Meaning": "ngủ",
+        "HSK": 1
+    },
+    {
+        "STT": 101,
+        "SimplifiedChinese": "说",
+        "Pinyin": "shuō",
+        "Category": "động từ",
+        "SinoVietnamese": "thuyết",
+        "Meaning": "nói",
+        "HSK": 1
+    },
+    {
+        "STT": 102,
+        "SimplifiedChinese": "四",
+        "Pinyin": "sì",
+        "Category": "số từ",
+        "SinoVietnamese": "tứ",
+        "Meaning": "số 4, số bốn",
+        "HSK": 1
+    },
+    {
+        "STT": 103,
+        "SimplifiedChinese": "岁",
+        "Pinyin": "suì",
+        "Category": "lượng từ",
+        "SinoVietnamese": "tuế",
+        "Meaning": "tuổi",
+        "HSK": 1
+    },
+    {
+        "STT": 104,
+        "SimplifiedChinese": "他",
+        "Pinyin": "tā",
+        "Category": "đại từ",
+        "SinoVietnamese": "tha",
+        "Meaning": "anh ấy, ông ấy, cậu ấy",
+        "HSK": 1
+    },
+    {
+        "STT": 105,
+        "SimplifiedChinese": "她",
+        "Pinyin": "tā",
+        "Category": "đại từ",
+        "SinoVietnamese": "tha",
+        "Meaning": "cô ấy, bà ấy, chị ấy, em ấy",
+        "HSK": 1
+    },
+    {
+        "STT": 106,
+        "SimplifiedChinese": "太",
+        "Pinyin": "tài",
+        "Category": "phó từ",
+        "SinoVietnamese": "thái",
+        "Meaning": "quá, lắm",
+        "HSK": 1
+    },
+    {
+        "STT": 107,
+        "SimplifiedChinese": "天气",
+        "Pinyin": "tiānqì",
+        "Category": "danh từ",
+        "SinoVietnamese": "thiên khí",
+        "Meaning": "thời tiết",
+        "HSK": 1
+    },
+    {
+        "STT": 108,
+        "SimplifiedChinese": "听",
+        "Pinyin": "tīng",
+        "Category": "động từ",
+        "SinoVietnamese": "thính",
+        "Meaning": "nghe",
+        "HSK": 1
+    },
+    {
+        "STT": 109,
+        "SimplifiedChinese": "同学",
+        "Pinyin": "tóngxué",
+        "Category": "danh từ",
+        "SinoVietnamese": "đồng học",
+        "Meaning": "bạn cùng lơp, bạn học",
+        "HSK": 1
+    },
+    {
+        "STT": 110,
+        "SimplifiedChinese": "喂",
+        "Pinyin": "wèi",
+        "Category": "thán từ",
+        "SinoVietnamese": "úy",
+        "Meaning": "a lô, này",
+        "HSK": 1
+    },
+    {
+        "STT": 111,
+        "SimplifiedChinese": "我",
+        "Pinyin": "wǒ",
+        "Category": "đại từ",
+        "SinoVietnamese": "ngã",
+        "Meaning": "tôi, ta, mình",
+        "HSK": 1
+    },
+    {
+        "STT": 112,
+        "SimplifiedChinese": "我们",
+        "Pinyin": "wǒmen",
+        "Category": "đại từ",
+        "SinoVietnamese": "ngã môn",
+        "Meaning": "chúng ta, chúng tôi, chúng mình",
+        "HSK": 1
+    },
+    {
+        "STT": 113,
+        "SimplifiedChinese": "五",
+        "Pinyin": "wǔ",
+        "Category": "số từ",
+        "SinoVietnamese": "ngũ",
+        "Meaning": "số 5",
+        "HSK": 1
+    },
+    {
+        "STT": 114,
+        "SimplifiedChinese": "喜欢",
+        "Pinyin": "xǐhuān",
+        "Category": "động từ",
+        "SinoVietnamese": "hỷ hoan",
+        "Meaning": "thích",
+        "HSK": 1
+    },
+    {
+        "STT": 115,
+        "SimplifiedChinese": "下",
+        "Pinyin": "xià",
+        "Category": "động từ",
+        "SinoVietnamese": "hạ",
+        "Meaning": "dưới, phía dưới, rơi (mưa, tuyết…)",
+        "HSK": 1
+    },
+    {
+        "STT": 116,
+        "SimplifiedChinese": "下午",
+        "Pinyin": "xiàwǔ",
+        "Category": "danh từ",
+        "SinoVietnamese": "hạ ngọ",
+        "Meaning": "buổi chiều",
+        "HSK": 1
+    },
+    {
+        "STT": 117,
+        "SimplifiedChinese": "下雨",
+        "Pinyin": "xiàyǔ",
+        "Category": "",
+        "SinoVietnamese": "hạ vũ",
+        "Meaning": "mưa, có mưa",
+        "HSK": 1
+    },
+    {
+        "STT": 118,
+        "SimplifiedChinese": "先生",
+        "Pinyin": "xiānshēng",
+        "Category": "danh từ",
+        "SinoVietnamese": "tiên sinh",
+        "Meaning": "ông, ngài",
+        "HSK": 1
+    },
+    {
+        "STT": 119,
+        "SimplifiedChinese": "现在",
+        "Pinyin": "xiànzài",
+        "Category": "danh từ",
+        "SinoVietnamese": "hiện tại",
+        "Meaning": "bây giờ, hiện tại",
+        "HSK": 1
+    },
+    {
+        "STT": 120,
+        "SimplifiedChinese": "想",
+        "Pinyin": "xiǎng",
+        "Category": "đtnn",
+        "SinoVietnamese": "tưởng",
+        "Meaning": "muốn",
+        "HSK": 1
+    },
+    {
+        "STT": 121,
+        "SimplifiedChinese": "小",
+        "Pinyin": "xiǎo",
+        "Category": "tính từ",
+        "SinoVietnamese": "tiểu",
+        "Meaning": "nhỏ, bé, tiểu",
+        "HSK": 1
+    },
+    {
+        "STT": 122,
+        "SimplifiedChinese": "小姐",
+        "Pinyin": "xiǎojiě",
+        "Category": "danh từ",
+        "SinoVietnamese": "tiểu thư",
+        "Meaning": "cô, chị",
+        "HSK": 1
+    },
+    {
+        "STT": 123,
+        "SimplifiedChinese": "些",
+        "Pinyin": "xiē",
+        "Category": "lượng từ",
+        "SinoVietnamese": "tá",
+        "Meaning": "một ít, một vài, một số",
+        "HSK": 1
+    },
+    {
+        "STT": 124,
+        "SimplifiedChinese": "写",
+        "Pinyin": "xiě",
+        "Category": "động từ",
+        "SinoVietnamese": "tả",
+        "Meaning": "viết",
+        "HSK": 1
+    },
+    {
+        "STT": 125,
+        "SimplifiedChinese": "谢谢",
+        "Pinyin": "xièxie",
+        "Category": "động từ",
+        "SinoVietnamese": "tạ tạ",
+        "Meaning": "cảm ơn",
+        "HSK": 1
+    },
+    {
+        "STT": 126,
+        "SimplifiedChinese": "星期",
+        "Pinyin": "xīngqī",
+        "Category": "danh từ",
+        "SinoVietnamese": "tinh kỳ",
+        "Meaning": "tuần, thứ",
+        "HSK": 1
+    },
+    {
+        "STT": 127,
+        "SimplifiedChinese": "学生",
+        "Pinyin": "xuéshēng",
+        "Category": "danh từ",
+        "SinoVietnamese": "học sinh",
+        "Meaning": "học sinh",
+        "HSK": 1
+    },
+    {
+        "STT": 128,
+        "SimplifiedChinese": "学习",
+        "Pinyin": "xuéxí",
+        "Category": "động từ",
+        "SinoVietnamese": "học tập",
+        "Meaning": "học, học tập",
+        "HSK": 1
+    },
+    {
+        "STT": 129,
+        "SimplifiedChinese": "学校",
+        "Pinyin": "xuéxiào",
+        "Category": "danh từ",
+        "SinoVietnamese": "học hiệu",
+        "Meaning": "trường học",
+        "HSK": 1
+    },
+    {
+        "STT": 130,
+        "SimplifiedChinese": "一",
+        "Pinyin": "yī",
+        "Category": "số từ",
+        "SinoVietnamese": "nhất",
+        "Meaning": "số 1, số một",
+        "HSK": 1
+    },
+    {
+        "STT": 131,
+        "SimplifiedChinese": "衣服",
+        "Pinyin": "yīfu",
+        "Category": "danh từ",
+        "SinoVietnamese": "y phục",
+        "Meaning": "quần áo",
+        "HSK": 1
+    },
+    {
+        "STT": 132,
+        "SimplifiedChinese": "医生",
+        "Pinyin": "yīshēng",
+        "Category": "danh từ",
+        "SinoVietnamese": "y sinh",
+        "Meaning": "bác sĩ",
+        "HSK": 1
+    },
+    {
+        "STT": 133,
+        "SimplifiedChinese": "医院",
+        "Pinyin": "yīyuàn",
+        "Category": "danh từ",
+        "SinoVietnamese": "y viện",
+        "Meaning": "bệnh viện",
+        "HSK": 1
+    },
+    {
+        "STT": 134,
+        "SimplifiedChinese": "椅子",
+        "Pinyin": "yǐzi",
+        "Category": "danh từ",
+        "SinoVietnamese": "ỷ tử",
+        "Meaning": "ghế, ghế dựa, cái ghế",
+        "HSK": 1
+    },
+    {
+        "STT": 135,
+        "SimplifiedChinese": "一点儿",
+        "Pinyin": "yìdiǎnr",
+        "Category": "số lượng",
+        "SinoVietnamese": "nhất điểm nhi",
+        "Meaning": "một ít, một chút",
+        "HSK": 1
+    },
+    {
+        "STT": 136,
+        "SimplifiedChinese": "有",
+        "Pinyin": "yǒu",
+        "Category": "động từ",
+        "SinoVietnamese": "hữu",
+        "Meaning": "có",
+        "HSK": 1
+    },
+    {
+        "STT": 137,
+        "SimplifiedChinese": "月",
+        "Pinyin": "yuè",
+        "Category": "danh từ",
+        "SinoVietnamese": "nguyệt",
+        "Meaning": "tháng",
+        "HSK": 1
+    },
+    {
+        "STT": 138,
+        "SimplifiedChinese": "再见",
+        "Pinyin": "zàijiàn",
+        "Category": "động từ",
+        "SinoVietnamese": "tái kiến",
+        "Meaning": "tạm biệt",
+        "HSK": 1
+    },
+    {
+        "STT": 139,
+        "SimplifiedChinese": "在",
+        "Pinyin": "zài",
+        "Category": "động từ",
+        "SinoVietnamese": "tại",
+        "Meaning": "ở",
+        "HSK": 1
+    },
+    {
+        "STT": 140,
+        "SimplifiedChinese": "怎么",
+        "Pinyin": "zěnme",
+        "Category": "đại từ",
+        "SinoVietnamese": "chẩm ma",
+        "Meaning": "như, như nào, thế nào, làm sao (chỉ tính chất, tình trạng, cách thức…)",
+        "HSK": 1
+    },
+    {
+        "STT": 141,
+        "SimplifiedChinese": "怎么样",
+        "Pinyin": "zěnmeyàng",
+        "Category": "đại từ",
+        "SinoVietnamese": "chẩm ma dạng",
+        "Meaning": "như thế nào (chỉ tính chất, tình trạng, cách thức…)",
+        "HSK": 1
+    },
+    {
+        "STT": 142,
+        "SimplifiedChinese": "这",
+        "Pinyin": "zhè",
+        "Category": "đại từ",
+        "SinoVietnamese": "giá",
+        "Meaning": "này, đây",
+        "HSK": 1
+    },
+    {
+        "STT": 143,
+        "SimplifiedChinese": "中午",
+        "Pinyin": "zhōngwǔ",
+        "Category": "danh từ",
+        "SinoVietnamese": "trung ngọ",
+        "Meaning": "buổi trưa",
+        "HSK": 1
+    },
+    {
+        "STT": 144,
+        "SimplifiedChinese": "住",
+        "Pinyin": "zhù",
+        "Category": "động từ",
+        "SinoVietnamese": "trú",
+        "Meaning": "ở, ở lại",
+        "HSK": 1
+    },
+    {
+        "STT": 145,
+        "SimplifiedChinese": "桌子",
+        "Pinyin": "zhuōzi",
+        "Category": "danh từ",
+        "SinoVietnamese": "trác tử",
+        "Meaning": "bàn, cái bàn",
+        "HSK": 1
+    },
+    {
+        "STT": 146,
+        "SimplifiedChinese": "字",
+        "Pinyin": "zì",
+        "Category": "danh từ",
+        "SinoVietnamese": "tự",
+        "Meaning": "chữ ",
+        "HSK": 1
+    },
+    {
+        "STT": 147,
+        "SimplifiedChinese": "昨天",
+        "Pinyin": "zuótiān",
+        "Category": "danh từ",
+        "SinoVietnamese": "tác thiên",
+        "Meaning": "hôm qua ",
+        "HSK": 1
+    },
+    {
+        "STT": 148,
+        "SimplifiedChinese": "坐",
+        "Pinyin": "zuò",
+        "Category": "động từ",
+        "SinoVietnamese": "tọa",
+        "Meaning": "ngồi ",
+        "HSK": 1
+    },
+    {
+        "STT": 149,
+        "SimplifiedChinese": "做",
+        "Pinyin": "zuò",
+        "Category": "động từ",
+        "SinoVietnamese": "tố",
+        "Meaning": "làm, nấu",
+        "HSK": 1
+    }
+]

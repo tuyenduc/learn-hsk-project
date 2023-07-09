@@ -296,6 +296,7 @@ p {
 
 .app {
     background-color: #F5F5F5;
+    background-image: url("../images/backgroud.jpg");
 }
 
 /* modal */

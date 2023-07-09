@@ -35,3 +35,11 @@
 .table-item-call-listen {
     cursor: pointer;
 }
+
+.table-header .table-item:first-child {
+    border-left: none;
+}
+
+.table-header.table-row {
+    border-right: none;
+}

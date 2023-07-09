@@ -1,5 +1,5 @@
 .app-header {
-    height: var(--header-height);
+    /* height: var(--header-height); */
     background-image: linear-gradient(0, #ed8969, #f53e2d);
 }
 
@@ -38,6 +38,7 @@
 
 .navbar-link-active {
     color: var(--white-color);
+    font-weight: 600;
 }
 
 .navbar-item--separate::after {
@@ -119,6 +120,8 @@
 
 .app-content {
     min-height: var(--app-height);
+    display: flex;
+    align-items: center;
 }
 
 .container {
