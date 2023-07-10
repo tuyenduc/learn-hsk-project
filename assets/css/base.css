@@ -11,7 +11,8 @@
     --header-height: 120px;
     --navbar-height: 50px;
     --header-search-with: calc(var(--header-height) - var(--navbar-height));
-    --app-height: calc(100vh - var(--header-height))
+    --app-height: calc(100vh - var(--header-height));
+    --app-height-not-search: calc(100vh - var(--navbar-height));
 }
 
 * {
@@ -395,6 +396,14 @@ p {
     font-size: 1.2rem;
 }
 
+.btn:not(:first-child) {
+    margin-left: 10px;
+}
+
+.btn-icon {
+    margin-left: 5px;
+}
+
 .bg-white {
     background-color: var(--white-color);
 }
@@ -405,4 +414,16 @@ p {
 
 .text-white {
     color: var(--white-color);
+}
+
+.d-none {
+    display: none;
+}
+
+.d-block {
+    display: block;
+}
+
+.bg-info {
+    background-color: var(--info-color) !important;
 }

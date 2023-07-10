@@ -27,49 +27,9 @@ $(document).ready(function () {
         let searchValue = CheckValueSetEmpty($(this).val());
         LoadNewWords(searchValue);
     });
-    
+
     $("body").on("click", ".search-btn", function (event) {
         let searchValue = CheckValueSetEmpty($(".search-input").val());
         LoadNewWords(searchValue);
     });
-
-    function IsValuable(str) {
-        return str !== null && str !== undefined && str !== "";
-    }
-
-    function CheckValueSetEmpty(str) {
-        if (!IsValuable(str)) {
-            return "";
-        } else {
-            return str;
-        }
-    }
-
-    function CheckValueSetZero(str) {
-        try {
-            if (!IsValuable(str)) {
-                return 0;
-            } else if (isNaN(str)) {
-                return 0;
-            } else {
-                return Number(str);
-            }
-        } catch (e) {
-            return 0;
-        }
-    }
-
-    function getRandomDifferent(arr, last = undefined) {
-        if (arr.length === 0) {
-          return null;
-        } else if (arr.length === 1) {
-          return arr[0];
-        } else {
-          let num = 0;
-          do {
-            num = Math.floor(Math.random() * arr.length);
-          } while (arr[num] === last);
-          return arr[num];
-        }
-      }
 });
