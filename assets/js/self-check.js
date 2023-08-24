@@ -3,9 +3,10 @@ $(document).ready(function () {
     var ArrayCheckeds = [];
     let itemCheck = { "STT": 0, "SimplifiedChinese": "", "Pinyin": "", "Category": "", "SinoVietnamese": "", "Meaning": "", "HSK": 0 };
     let typeCheck = 1;
-    LoadQuestions();
-
+    // LoadQuestions();
+    var btnenter = "#self-check-btn-check";
     function LoadQuestions() {
+        $("#self-check-notify").parent().addClass("d-none");
         let arrCheckeds = ArrayCheckeds.map(it => it.STT)
         let arrChecks = AllNewWords.filter(it => arrCheckeds.indexOf(it.STT) == -1);
         let numindex = Math.floor(Math.random() * arrChecks.length);
@@ -15,57 +16,79 @@ $(document).ready(function () {
         $("#self-check-btn-next").addClass("d-none");
         $("#self-check-btn-check").removeClass("d-none");
         typeCheck = Math.floor(Math.random() * (2) + 1);
+        $("#self-check-pinyin-suggestion").addClass("d-none");
         if (typeCheck == 1) {
-            $("#self-check-label").html(itemCheck.SimplifiedChinese);
-            $("#self-check-input").attr("placeholder", "Enter Vietnamese Meaning to check");
+            $("#self-check-question").text(itemCheck.SimplifiedChinese);
+            $("#self-check-input").attr("placeholder", "Nhập nghĩa tiếng Việt");
+            $("#self-check-pinyin-suggestion").text(` (${itemCheck.Pinyin})`);
         }
         else if (typeCheck == 2) {
-            $("#self-check-label").html(itemCheck.Meaning);
-            $("#self-check-input").attr("placeholder", "Enter Simplified Chinese to check");
+            $("#self-check-question").text(itemCheck.Meaning);
+            $("#self-check-input").attr("placeholder", "Nhập tiếng Trung");
+            $("#self-check-pinyin-suggestion").text(` (${itemCheck.Pinyin})`);
         }
         else {
-            $("#self-check-label").html(itemCheck.SimplifiedChinese);
-            $("#self-check-input").attr("placeholder", "Enter Pinyin to check");
+            $("#self-check-question").text(itemCheck.SimplifiedChinese);
+            $("#self-check-input").attr("placeholder", "Nhập Pinyin");
+            $("#self-check-pinyin-suggestion").text(` (${itemCheck.Pinyin})`);
         }
     }
 
+    $("body").on("click", "#self-check-question", function (event) {
+        if ($("#self-check-pinyin-suggestion").attr("class").indexOf("d-none") > -1)
+            $("#self-check-pinyin-suggestion").removeClass("d-none");
+        else
+            $("#self-check-pinyin-suggestion").addClass("d-none");
+    });
+
+    $("body").on("click", "#btn-start", function (event) {
+        $(this).parents("div.form-self-check").addClass("d-none");
+        $(".card-body").find(".form-self-check").first().removeClass("d-none");
+        LoadQuestions();
+    });
+
     $("body").on("keypress", "#self-check-input", function (event) {
-        let inputvalue = CheckValueSetEmpty($(this).val()).toLowerCase();
         if (event.which == 13 || event.key == "Enter") {
-            CheckQuestion(inputvalue);
+            $(btnenter).click();
         }
     });
 
     $("body").on("click", "#self-check-btn-check", function (event) {
-        let inputvalue = CheckValueSetEmpty($("#self-check-input").val()).toLowerCase();
-        CheckQuestion(inputvalue);
+        CheckQuestion();
     });
 
-    function CheckQuestion(checkvalue) {
+    function CheckQuestion() {
+        let checkvalue = CheckValueSetEmpty($("#self-check-input").val()).toLowerCase();
         let checkalert = { Status: false, Message: "" };
         if (checkvalue == "") {
-            checkalert.Message == "Please Enter Simplified Chinese, Pinyin, Sino-Vietnamese or Vietnamese Meaning to check";
+            checkalert.Message == "Nhập tiếng Trung, Hán Việt hoặc nghĩa tiếng Việt";
         }
         else {
             let arrMeaning = itemCheck.Meaning.toLowerCase().split(",").map(it => it.trim());
-            // || (typeCheck == 2 && itemCheck.Pinyin.toLowerCase() == checkvalue)
             if ((typeCheck == 1 && arrMeaning.includes(checkvalue)) || (typeCheck == 2 && itemCheck.SimplifiedChinese.toLowerCase() == checkvalue)) {
                 checkalert.Status = true;
-                checkalert.Message = "Correct answer!";
+                checkalert.Message = "Đáp án chính xác!";
             }
             else {
-                checkalert.Message = "Incorrect answer!";
+                checkalert.Message = "Đáp án không chính xác!";
             }
         }
+        $("#self-check-notify").parent().removeClass("d-none");
         if (checkalert.Status) {
             $("#self-check-btn-check").addClass("d-none");
-            if (ArrayCheckeds.length < AllNewWords.length)
+            if (ArrayCheckeds.length < AllNewWords.length) {
                 $("#self-check-btn-next").removeClass("d-none");
+                btnenter = "#self-check-btn-next";
+            }
+            $("#self-check-notify").text(checkalert.Message).removeClass("text-danger");
         }
-        alert(checkalert.Message);
+        else {
+            $("#self-check-notify").text(checkalert.Message).addClass("text-danger");
+        }
     }
 
     $("body").on("click", "#self-check-btn-next", function (event) {
         LoadQuestions();
+        btnenter = "#self-check-btn-check";
     });
 });

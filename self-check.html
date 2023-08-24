@@ -25,16 +25,16 @@
                         <nav class="header-navbar">
                             <ul class="navbar-list">
                                 <li class="navbar-item navbar-item--separate">
-                                    <a href="./index.html" class="navbar-link">New Words</a>
+                                    <a href="./index.html" class="navbar-link">Từ mới</a>
                                 </li>
                                 <li class="navbar-item navbar-item--separate">
-                                    <a href="./phat-am.html" class="navbar-link">Pinyin Chart</a>
+                                    <a href="./phat-am.html" class="navbar-link">Pinyin</a>
+                                </li>
+                                <li class="navbar-item navbar-item--separate">
+                                    <a href="./net-co-ban.html" class="navbar-link">Nét cơ bản</a>
                                 </li>
                                 <li class="navbar-item">
-                                    <a href="./net-co-ban.html" class="navbar-link">Basic Strokes</a>
-                                </li>
-                                <li class="navbar-item">
-                                    <a href="./self-check.html" class="navbar-link navbar-link-active">Self Check</a>
+                                    <a href="./self-check.html" class="navbar-link navbar-link-active">Tự kiểm tra</a>
                                 </li>
                             </ul>
                         </nav>
@@ -47,27 +47,40 @@
                         <div class="grid__column-12">
                             <div class="card">
                                 <div class="card-header">
-                                    <h4 class="card-title">Self Check</h4>
+                                    <h4 class="card-title">Tự kiểm tra</h4>
                                 </div>
                                 <div class="card-body">
-                                    <div class="form-self-check">
+                                    <div class="form-self-check d-none">
                                         <div class="form-self-check-item">
-                                            <p class="self-check-label" id="self-check-label">
-                                                Enter Simplified Chinese, Pinyin, Sino-Vietnamese or Vietnamese Meaning
+                                            <p class="self-check-label" id="self-check-label"
+                                                title="Click vào để bật hoặc tắt gợi ý Pinyin">
+                                                <span id="self-check-question">
+                                                    Nhập tiếng Trung, Hán Việt hoặc nghĩa tiếng Việt
+                                                </span>
+                                                <span class="d-none" id="self-check-pinyin-suggestion"></span>
                                             </p>
                                         </div>
                                         <div class="form-self-check-item">
                                             <input type="text" class="self-check-input" id="self-check-input"
-                                                placeholder="Enter Simplified Chinese, Pinyin, Sino-Vietnamese or Vietnamese Meaning to check" />
+                                                placeholder="Nhập tiếng Trung, Hán Việt hoặc nghĩa tiếng Việt" />
                                         </div>
-
                                         <div class="form-self-check-item">
                                             <button class="btn btn--primary self-check-btn" id="self-check-btn-check">
-                                                Check <i class="btn-icon fas fa-check"></i>
+                                                Kiểm tra <i class="btn-icon fas fa-check"></i>
                                             </button>
                                             <button class="btn btn--primary self-check-btn bg-info d-none"
                                                 id="self-check-btn-next">
-                                                Next <i class="btn-icon fas fa-chevron-right"></i>
+                                                Tiếp theo <i class="btn-icon fas fa-chevron-right"></i>
+                                            </button>
+                                        </div>
+                                        <div class="form-self-check-item d-none">
+                                            <p class="self-check-notify" id="self-check-notify"></p>
+                                        </div>
+                                    </div>
+                                    <div class="form-self-check">
+                                        <div class="form-self-check-item">
+                                            <button class="btn btn--primary self-check-btn" id="btn-start">
+                                                Bắt đầu
                                             </button>
                                         </div>
                                     </div>

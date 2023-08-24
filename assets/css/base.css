@@ -417,7 +417,7 @@ p {
 }
 
 .d-none {
-    display: none;
+    display: none !important;
 }
 
 .d-block {
@@ -426,4 +426,12 @@ p {
 
 .bg-info {
     background-color: var(--info-color) !important;
+}
+
+.text-info {
+    color: var(--info-color) !important;
+}
+
+.text-danger {
+    color: var(--primary-color) !important;
 }
