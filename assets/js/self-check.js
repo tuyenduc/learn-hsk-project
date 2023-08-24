@@ -20,25 +20,23 @@ $(document).ready(function () {
         if (typeCheck == 1) {
             $("#self-check-question").text(itemCheck.SimplifiedChinese);
             $("#self-check-input").attr("placeholder", "Nhập nghĩa tiếng Việt");
-            $("#self-check-pinyin-suggestion").text(` (${itemCheck.Pinyin})`);
+            $("#self-check-pinyin-suggestion").text(` (${itemCheck.Pinyin} - ${itemCheck.Meaning})`);
         }
         else if (typeCheck == 2) {
             $("#self-check-question").text(itemCheck.Meaning);
             $("#self-check-input").attr("placeholder", "Nhập tiếng Trung");
-            $("#self-check-pinyin-suggestion").text(` (${itemCheck.Pinyin})`);
+            $("#self-check-pinyin-suggestion").text(` (${itemCheck.Pinyin} - ${itemCheck.SimplifiedChinese})`);
         }
         else {
             $("#self-check-question").text(itemCheck.SimplifiedChinese);
             $("#self-check-input").attr("placeholder", "Nhập Pinyin");
-            $("#self-check-pinyin-suggestion").text(` (${itemCheck.Pinyin})`);
+            $("#self-check-pinyin-suggestion").text(` (${itemCheck.Pinyin} - ${itemCheck.Meaning})`);
         }
     }
 
-    $("body").on("click", "#self-check-question", function (event) {
-        if ($("#self-check-pinyin-suggestion").attr("class").indexOf("d-none") > -1)
-            $("#self-check-pinyin-suggestion").removeClass("d-none");
-        else
-            $("#self-check-pinyin-suggestion").addClass("d-none");
+    $("body").on("click", "#self-check-btn-suggesstion", function (event) {
+        $("#self-check-pinyin-suggestion").removeClass("d-none");
+        $(this).addClass("d-none");
     });
 
     $("body").on("click", "#btn-start", function (event) {
@@ -76,6 +74,7 @@ $(document).ready(function () {
         $("#self-check-notify").parent().removeClass("d-none");
         if (checkalert.Status) {
             $("#self-check-btn-check").addClass("d-none");
+            $("#self-check-btn-suggesstion").addClass("d-none");
             if (ArrayCheckeds.length < AllNewWords.length) {
                 $("#self-check-btn-next").removeClass("d-none");
                 btnenter = "#self-check-btn-next";
@@ -90,5 +89,6 @@ $(document).ready(function () {
     $("body").on("click", "#self-check-btn-next", function (event) {
         LoadQuestions();
         btnenter = "#self-check-btn-check";
+        $("#self-check-btn-suggesstion").removeClass("d-none");
     });
 });
